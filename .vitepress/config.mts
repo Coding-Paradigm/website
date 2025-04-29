@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Optimal Java",
-  description: "Code in Java optimally!",
+  description: "Do it right, in Java.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

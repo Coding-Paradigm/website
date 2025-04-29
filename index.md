@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Optimal Java"
-  text: "Code in Java optimally!"
-  tagline: My great project tagline
+  text: "Do it right, in Java."
+  tagline: Battle against the JVM!
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Guides
+      link: /guides
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Optimization Techniques
+      link: /optimization
 
 features:
   - title: Feature A
