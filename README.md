@@ -2,6 +2,8 @@
 
 ## Built with Vitepress
 
+View the live website [here](https://coding-paradigm.pages.dev/)
+
 ### Setup Instruction
 1. Clone
 2. Use `bun`, or any other preferred package managers
