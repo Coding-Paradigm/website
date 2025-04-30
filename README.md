@@ -1,4 +1,4 @@
-# Optimal Java - Website Component
+# Coding Paradigm - Website Component
 
 ## Built with Vitepress
 
