@@ -2,10 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Coding Paradigm",
-  description: "Do it right. From the start.",
+  title: 'Coding Paradigm',
+  description: 'Understand the why. Master the how.',
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' }
     ],
