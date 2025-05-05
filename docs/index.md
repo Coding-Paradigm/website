@@ -15,7 +15,7 @@ hero:
     - theme: alt
       icon: /github.svg
       text: Contribute
-      link: https://github.com/Coding-Paradigm/website
+      link: https://github.com/Coding-Paradigm
 features:
   - title: Java Virtual Machine
     icon: ⚙️
@@ -23,9 +23,12 @@ features:
   - title: Garbage Collector
     icon: ♻️
     details: Trash this, trash that, get to know the very thing that is sifting through your Java objects and recycling your heap.
-  - title: Internal APIs
-    icon: 📜
-    details: Java has a lot of hidden APIs we can exploit, useful third-party libraries will be covered also.
+  - title: Benchmarks
+    icon: ⏱️
+    details: Optimizations, with clear numbers done with OpenJDK approved methods.
+  - title: Tests
+    icon: 📝
+    details: Unit testing your Java oddities, things that may seem right but are actually wrong.
 ---
 
 <style>
