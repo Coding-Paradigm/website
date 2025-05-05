@@ -13,16 +13,17 @@ hero:
       text: Dive in
       link: /guide/getting-started
     - theme: alt
-      icon: /github.svg
       text: Contribute
       link: https://github.com/Coding-Paradigm
 features:
   - title: Java Virtual Machine
     icon: ⚙️
     details: The very core of Java, the machine, bare metal, exposed.
-  - title: Garbage Collector
+    link: /guides/jvm
+  - title: Garbage Collection
     icon: ♻️
     details: Trash this, trash that, get to know the very thing that is sifting through your Java objects and recycling your heap.
+    link: /guides/gc
   - title: Benchmarks
     icon: ⏱️
     details: Optimizations, with clear numbers done with OpenJDK approved methods.
