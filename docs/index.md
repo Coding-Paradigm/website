@@ -27,9 +27,11 @@ features:
   - title: Benchmarks
     icon: ⏱️
     details: Optimizations, with clear numbers done with OpenJDK approved methods.
+    link: /guides/benchmarks/001
   - title: Tests
     icon: 📝
     details: Unit testing your Java oddities, things that may seem right but are actually wrong.
+    link: /guides/tests/001
 ---
 
 <style>
