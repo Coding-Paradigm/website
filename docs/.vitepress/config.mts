@@ -16,6 +16,26 @@ export default defineConfig({
           { text: 'Java Virtual Machine', link: '/guides/jvm' },
           { text: 'Garbage Collection', link: '/guides/gc' }
         ]
+      },
+      {
+        text: 'Unit Tests',
+        items: [
+          { text: '001: CAFEBABE', link: '/guides/tests/001' },
+          { text: '002: String Comparison', link: '/guides/tests/002' },
+          { text: '003: Data Overflow and Underflow', link: '/guides/tests/003' },
+          { text: '004: Trap from Autoboxing', link: '/guides/tests/004' },
+          { text: '005: Overloading Arguments Resolution', link: '/guides/tests/005' }
+        ]
+      },
+      {
+        text: 'Benchmarks',
+        items: [
+          { text: '001: Method Calls', link: '/guides/benchmarks/001' },
+          { text: '002: Setting Field Values', link: '/guides/benchmarks/002' },
+          { text: '003: Getting Field Values', link: '/guides/benchmarks/003' },
+          { text: '004: Concatenating Strings', link: '/guides/benchmarks/004' },
+          { text: '005: Set vs List ~ Contains', link: '/guides/benchmarks/005' }
+        ]
       }
     ],
 
