@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Dive in
-      link: /guide/getting-started
+      link: /guide/jvm
     - theme: alt
       text: Contribute
       link: https://github.com/Coding-Paradigm
